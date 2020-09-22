@@ -1,5 +1,8 @@
 
+
 # Hier fügen wir den Fix ein
+
+# Und hier den zweiten Fix
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
