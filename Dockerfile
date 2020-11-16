@@ -4,6 +4,8 @@
 # auch aus Master - aber fuer rebase
 
 # und jetzt fuer "git stash"
+# und noch einmal fuer "stash"
+
 
 # Hier fügen wir den Fix ein
 
