@@ -3,6 +3,8 @@
 
 # auch aus Master - aber fuer rebase
 
+# und jetzt fuer "git stash"
+
 # Hier fügen wir den Fix ein
 
 # aus HOTFIX
